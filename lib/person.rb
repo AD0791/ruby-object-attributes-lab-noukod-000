@@ -15,3 +15,4 @@ class Person
     @personjob
   end
 end
+
